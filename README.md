@@ -21,3 +21,6 @@ python3+chromium+chromedriver服务器部署自动签到功能
 #### 使用说明
 
 python3 SetUp.py
+
+CSDN文章分享：
+https://blog.csdn.net/fen_8/article/details/113125319
